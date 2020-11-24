@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>乐乐兰兰他爸的小网站</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-11-23T10:24:44.458Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>邱仁朝</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>什么是Markdown</title>
+    <link href="http://example.com/2020/11/23/%E4%BB%80%E4%B9%88%E6%98%AFMarkdown/"/>
+    <id>http://example.com/2020/11/23/%E4%BB%80%E4%B9%88%E6%98%AFMarkdown/</id>
+    <published>2020-11-23T10:19:15.000Z</published>
+    <updated>2020-11-23T10:24:44.458Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Markdown是一种轻量级的「标记语言」</strong></p><p><img src="https://www.mdeditor.com/images/logos/markdown.png" alt="markdown" title="markdown"></p><p>Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“.md”</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Markdown是一种轻量级的「标记语言」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.mdeditor.com/images/logos/markdown.png&quot; alt=&quot;markdown&quot; title=&quot;markdow</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
